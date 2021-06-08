@@ -1,7 +1,0 @@
-import java.util.*;
-class Sample
-{
-public static voidmain(String args[]){
- System.out.println("chandrika");
-}
-}
